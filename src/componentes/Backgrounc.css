@@ -25,3 +25,39 @@ p{
     font-size: 24px;
     text-align: center;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 600px){
+
+    .body{
+        height: 750px;
+        padding-top: 170px;
+    }
+
+    button{
+        width: 70%;
+    }
+
+
+    
+
+}
