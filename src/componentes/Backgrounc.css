@@ -1,8 +1,10 @@
 .body{
+    height: 627px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 100px;
+    padding-top: 100px;
+    background-image: url('https://static.vecteezy.com/ti/vetor-gratis/p3/17637496-fundo-de-de-amor-de-coracao-quadro-dos-namorados-fundo-de-coracoes-rosa-amo-ilustracao-de-design-de-fundo-fundo-dos-namorados-coracao-de-amor-fundo-doce-gratis-vetor.jpg');
 }
 
 button{
